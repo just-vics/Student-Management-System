@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6ea43SyyhQ=",
+  "success": true,
+  "projectFilePath": "D:\\Just Visual man\\Student Management System\\Student Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dumis\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.4\\microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\Dumis\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "C:\\Users\\Dumis\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

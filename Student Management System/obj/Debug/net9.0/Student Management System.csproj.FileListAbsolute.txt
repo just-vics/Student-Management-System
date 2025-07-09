@@ -1,0 +1,14 @@
+D:\Just Visual man\Student Management System\bin\Debug\net9.0\Student Management System.exe
+D:\Just Visual man\Student Management System\bin\Debug\net9.0\Student Management System.deps.json
+D:\Just Visual man\Student Management System\bin\Debug\net9.0\Student Management System.runtimeconfig.json
+D:\Just Visual man\Student Management System\bin\Debug\net9.0\Student Management System.dll
+D:\Just Visual man\Student Management System\bin\Debug\net9.0\Student Management System.pdb
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.AssemblyInfoInputs.cache
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.AssemblyInfo.cs
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.dll
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\refint\Student Management System.dll
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.pdb
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\Student Management System.genruntimeconfig.cache
+D:\Just Visual man\Student Management System\obj\Debug\net9.0\ref\Student Management System.dll
